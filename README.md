@@ -30,3 +30,6 @@ Uncomment line 22 by doing the same (Ctrl + /)( check, if it is commented out).
 **Step 6:**
 Run the program again and fill in the login page with the Admin's user code and password. Click "Login."
 Once logged in, you can now use the "Add Employee" button to continue adding new employees.
+
+********************************************************************************************************
+[Uploading Document Outlining - Employee Management System.pdf…]()
