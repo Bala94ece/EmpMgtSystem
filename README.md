@@ -2,6 +2,8 @@
 Front-End Instructions:
 ----------------------------
 
+[Uploading Document Outlining - Employee Management System.pdf…]()
+
 **Step 1:**
 Open Visual Studio Terminal and run the following command to start the program:
 npm start
@@ -32,4 +34,3 @@ Run the program again and fill in the login page with the Admin's user code and 
 Once logged in, you can now use the "Add Employee" button to continue adding new employees.
 
 ********************************************************************************************************
-[Uploading Document Outlining - Employee Management System.pdf…]()
